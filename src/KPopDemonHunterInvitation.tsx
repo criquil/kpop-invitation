@@ -187,7 +187,7 @@ const KPopDemonHunterInvitation = () => {
                     <div className="relative inline-block">
                         <div className="absolute inset-0 bg-gradient-to-r from-pink-500/30 to-purple-500/30 blur-xl opacity-50 animate-pulse"></div>
                         <div className="relative bg-black/30 backdrop-blur-sm rounded-2xl p-4 border-2 border-cyan-400/50 shadow-2xl">
-                            <p className="text-lg text-pink-200 font-semibold mb-1">La nueva integrante de Las Huntrix</p>
+                            <p className="text-lg text-pink-200 font-semibold mb-1">La nueva integrante de Las HUNTR/X</p>
                             <h3 className="text-5xl font-black text-white mb-1" style={{ textShadow: '0 0 20px rgba(255,255,255,0.5)' }}>
                                 ARYA
                             </h3>
