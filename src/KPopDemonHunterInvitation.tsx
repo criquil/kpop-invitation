@@ -187,7 +187,7 @@ const KPopDemonHunterInvitation = () => {
                     <div className="relative inline-block">
                         <div className="absolute inset-0 bg-gradient-to-r from-pink-500/30 to-purple-500/30 blur-xl opacity-50 animate-pulse"></div>
                         <div className="relative bg-black/30 backdrop-blur-sm rounded-2xl p-4 border-2 border-cyan-400/50 shadow-2xl">
-                            <p className="text-lg text-pink-200 font-semibold mb-1">La Hauntr/x</p>
+                            <p className="text-lg text-pink-200 font-semibold mb-1">La nueva integrante de Las Hauntrix</p>
                             <h3 className="text-5xl font-black text-white mb-1" style={{ textShadow: '0 0 20px rgba(255,255,255,0.5)' }}>
                                 ARYA
                             </h3>
@@ -224,7 +224,7 @@ const KPopDemonHunterInvitation = () => {
                                     <p className="text-xl font-black text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-cyan-400">
                                         ¡TE ESPERAMOS!
                                     </p>
-                                    <p className="text-xs text-pink-300 mt-1">Únete a la batalla más divertida</p>
+                                    <p className="text-xs text-pink-300 mt-1">Únete a la batalla más divertida confirmando asistencia</p>
                                 </div>
                             </div>
                         </div>
