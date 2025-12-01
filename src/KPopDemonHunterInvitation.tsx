@@ -47,9 +47,9 @@ const KPopDemonHunterInvitation = () => {
                         <img src="./logoHuntrix.png" alt="Logo Huntrix" className="w-64 mx-auto drop-shadow-[0_0_15px_rgba(236,72,153,0.5)]" />
                     </div>
 
-                    <h1 className="text-4xl md:text-6xl font-black text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-purple-400 to-cyan-400 mb-8 animate-pulse">
-                        KPop Demon Hunters
-                    </h1>
+                    <div className="mb-8">
+                        <img src="./kpopDH.webp" alt="KPop Demon Hunters" className="w-80 md:w-96 mx-auto drop-shadow-[0_0_20px_rgba(168,85,247,0.6)] animate-pulse" />
+                    </div>
 
                     <button
                         onClick={handleStart}
