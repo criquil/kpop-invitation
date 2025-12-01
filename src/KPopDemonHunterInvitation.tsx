@@ -44,7 +44,7 @@ const KPopDemonHunterInvitation = () => {
 
                 <div className="relative z-10 text-center p-6">
                     <div className="mb-8 animate-bounce">
-                        <Music className="text-pink-500 mx-auto" size={48} />
+                        <img src="./logoHuntrix.png" alt="Logo Huntrix" className="w-64 mx-auto drop-shadow-[0_0_15px_rgba(236,72,153,0.5)]" />
                     </div>
 
                     <h1 className="text-4xl md:text-6xl font-black text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-purple-400 to-cyan-400 mb-8 animate-pulse">
